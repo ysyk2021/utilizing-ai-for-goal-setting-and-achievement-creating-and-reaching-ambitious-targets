@@ -1,5 +1,3 @@
-Chapter 6: The Impact of AI on Goal Setting and Achievement
-===========================================================
 
 AI technology has a significant impact on goal setting and achievement. In this chapter, we will explore how AI can enhance goal clarity, focus, and productivity through the use of tools and techniques. We will also discuss how AI can transform mindset and commitment to achieve more ambitious goals.
 

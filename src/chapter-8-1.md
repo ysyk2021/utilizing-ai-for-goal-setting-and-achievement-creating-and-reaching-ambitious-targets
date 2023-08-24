@@ -1,5 +1,3 @@
-The Future of AI in Goal Setting and Achievement
-=======================================================================
 
 In this book, we have explored how AI technology can enhance goal setting and achievement. From improving productivity and decision-making to transforming mindset and commitment, AI offers a wealth of tools and techniques for achieving success.
 

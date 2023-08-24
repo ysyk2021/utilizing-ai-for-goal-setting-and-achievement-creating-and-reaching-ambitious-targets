@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Goal Setting
-=======================================================
 
 Getting started with AI-enabled goal setting requires a clear understanding of your priorities and ambitions, selecting the right AI tools and platforms, and creating a customized roadmap for AI implementation in your goal setting strategy. In this chapter, we will explore the key steps involved in getting started with AI-enabled goal setting.
 

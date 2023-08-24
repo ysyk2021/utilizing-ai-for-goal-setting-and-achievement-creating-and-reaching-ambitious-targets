@@ -1,5 +1,3 @@
-Identifying Your Priorities and Ambitions for Goal Setting
-===================================================================================================================
 
 Getting started with AI-enabled goal setting requires identifying your priorities and ambitions for goal setting. In this chapter, we will explore the key considerations when identifying your priorities and ambitions for goal setting.
 

@@ -1,5 +1,3 @@
-Tools and Platforms for AI-Enabled Goal Setting and Achievement
-========================================================================================================================================
 
 There are many tools and platforms available for AI-enabled goal setting and achievement. In this chapter, we will explore some of the most popular ones.
 

@@ -1,5 +1,3 @@
-Creating a Customized Roadmap for AI Implementation in Your Goal Setting Strategy
-==========================================================================================================================================
 
 Getting started with AI-enabled goal setting requires creating a customized roadmap for AI implementation in your goal setting strategy. In this chapter, we will explore the key steps involved in creating a customized roadmap for AI implementation.
 

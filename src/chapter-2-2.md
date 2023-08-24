@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Applications for Goal Setting and Achievement
-===========================================================================================================================================================
 
 There are several types of AI techniques and applications that can be used for goal setting and achievement. In this chapter, we will explore some of the most common ones.
 

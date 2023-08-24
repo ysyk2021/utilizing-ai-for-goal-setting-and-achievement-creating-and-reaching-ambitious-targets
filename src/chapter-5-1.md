@@ -1,5 +1,3 @@
-Pushing Boundaries and Taking Risks with AI-Enabled Creative Thinking and Idea Generation
-=====================================================================================================================================================
 
 Achieving ambitious goals often requires pushing beyond our limits and taking risks. AI technology can be a powerful tool for this process, providing creative thinking and idea generation capabilities to help individuals and organizations stretch beyond their limits.
 

@@ -1,5 +1,3 @@
-Creating Smart Goals and Actionable Plans with AI-Enabled Planning and Task Management
-===========================================================================================================================================================
 
 Effective goal setting and achievement requires creating clear and actionable plans. AI technology can be a powerful tool for this process, providing planning and task management capabilities to help individuals and organizations create smart goals and actionable plans.
 
