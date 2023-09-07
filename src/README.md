@@ -10,3 +10,7 @@ Whether you're an entrepreneur, business owner, manager, or individual looking t
 Together, we can take steps toward setting and achieving ambitious goals with confidence and clarity, and AI-powered solutions offer an exciting pathway to achieving this goal.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
