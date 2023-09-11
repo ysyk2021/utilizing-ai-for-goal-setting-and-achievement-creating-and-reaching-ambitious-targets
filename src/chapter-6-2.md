@@ -1,5 +1,4 @@
-Chapter 6: Transforming Mindset and Commitment to Achieve More Ambitious Goals
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," one of the critical factors that can significantly influence success is the transformation of mindset and commitment. This chapter explores how to harness the power of mindset and commitment to set and achieve more ambitious goals with the assistance of AI.
 

@@ -1,5 +1,4 @@
-Chapter 4: Creating SMART Goals and Actionable Plans with AI-Enabled Planning and Task Management
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the context of "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," the process of setting SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and crafting actionable plans is essential for success. This chapter delves into how artificial intelligence (AI) can empower individuals to create SMART goals and efficient action plans through AI-enabled planning and task management.
 

@@ -1,5 +1,4 @@
-Chapter 12: Pushing Boundaries and Taking Risks with AI-Enabled Creative Thinking and Idea Generation
-=====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," creativity and innovative thinking play a vital role in pushing the boundaries of what's possible. This chapter explores how AI can stimulate creative thinking, foster idea generation, and encourage risk-taking to achieve ambitious goals.
 

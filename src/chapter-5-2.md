@@ -1,5 +1,4 @@
-Chapter 10: Fostering Resilience and Overcoming Setbacks with AI-Enabled Emotional Intelligence
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pages of "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," understanding and managing emotions are vital components of a successful journey. This chapter delves into the role of AI-enabled emotional intelligence in fostering resilience and helping individuals overcome setbacks on their path to ambitious goals.
 

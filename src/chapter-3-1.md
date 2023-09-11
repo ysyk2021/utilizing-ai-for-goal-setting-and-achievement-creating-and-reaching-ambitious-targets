@@ -1,5 +1,4 @@
-Chapter 3: Identifying Your Priorities and Ambitions for Goal Setting
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," the foundation of effective goal setting lies in a deep understanding of your priorities and ambitions. This chapter explores the critical process of self-assessment and goal identification to set the stage for successful AI-driven goal attainment.
 

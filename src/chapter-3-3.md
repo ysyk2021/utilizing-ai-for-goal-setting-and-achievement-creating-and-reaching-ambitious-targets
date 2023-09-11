@@ -1,5 +1,4 @@
-Chapter 13: Creating a Customized Roadmap for AI Implementation in Your Goal Setting Strategy
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," a customized roadmap for AI implementation is a critical component of success. This chapter provides a step-by-step guide to tailoring AI to your specific goal-setting strategy.
 

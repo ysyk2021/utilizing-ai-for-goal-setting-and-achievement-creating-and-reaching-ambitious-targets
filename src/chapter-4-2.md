@@ -1,5 +1,4 @@
-Chapter 8: Tracking Progress and Staying Motivated with AI-Enabled Metrics and Data Visualization
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the context of "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," tracking your progress and maintaining motivation are pivotal aspects of achieving ambitious goals. This chapter explores how artificial intelligence (AI) can provide invaluable support through metrics and data visualization tools.
 

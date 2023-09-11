@@ -1,5 +1,4 @@
-Chapter 6: Tools and Platforms for AI-Enabled Goal Setting and Achievement
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of "Utilizing AI for Goal Setting and Achievement: Creating and Reaching Ambitious Targets," having access to the right tools and platforms is instrumental in leveraging AI's potential effectively. This chapter delves into the various tools and platforms available to facilitate AI-enabled goal setting and achievement.
 
